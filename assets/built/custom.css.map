@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.css"],"names":[],"mappings":"AAEA,KACE,sBACF,CAEA,YACI,YAAkB,CAClB,gBAAiB,CACjB,iBAAkB,CAClB,iBACJ","file":"custom.css","sourcesContent":["/* scroll to the top in post */\n\nhtml {\n  scroll-behavior: smooth;\n}\n\n.top-button {\n    padding: .5em .5em;\n    border: 1px solid;\n    border-radius: 4em;\n    text-align: center;\n}\n\n/* --- */\n"]}
